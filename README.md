@@ -1,4 +1,4 @@
-# Restaurant Website - Mini Project
+# Tasty Restaurant Website - Mini Project
 
 This is a restaurant website created using HTML, CSS, and PHP as a part of the Mini Project for the Web Programming-II course.
 
